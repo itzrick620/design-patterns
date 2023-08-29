@@ -1,0 +1,37 @@
+******* Seahawks******* 
+ - Gino Smith
+ - Tyler Locket
+ - BJ Finney
+On Defense
+
+1. Execute Play, 2. Turnover, 3. Quit: 1
+
+******* Executing Play ******* 
+Gino Smith not playing
+Tyler Locket not playing
+BJ Finney block a kick
+
+1. Execute Play, 2. Turnover, 3. Quit: 2
+
+******* Turnover ******* 
+On Offense
+
+1. Execute Play, 2. Turnover, 3. Quit: 1
+
+******* Executing Play ******* 
+Gino Smith throws a screen pass
+Tyler Locket runs a screen pass
+BJ Finney Block Defenders
+
+1. Execute Play, 2. Turnover, 3. Quit: 1
+
+******* Executing Play ******* 
+Gino Smith throws a out route
+Tyler Locket runs a seem route
+BJ Finney Block Defenders
+
+1. Execute Play, 2. Turnover, 3. Quit: 4
+Please enter a valid number between 1 and 3.
+
+1. Execute Play, 2. Turnover, 3. Quit: 3
+Goodbye
