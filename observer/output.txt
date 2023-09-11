@@ -1,0 +1,31 @@
+Enter Golfers Name: Jimmy
+Jimmy is playing golf
+
+*** Hole 1 ***
+Number of Strokes: 5
+1. View Hole Stats, 2. View Round Stats, 3. View Both Stats, 4. Continue: 1
+
+Current Hole stats: Par (3) Strokes (5), 2 over par
+
+
+*** Hole 2 ***
+Number of Strokes: 2
+1. View Hole Stats, 2. View Round Stats, 3. View Both Stats, 4. Continue: 2
+Overall stats: Par (7) Strokes (7), Making par
+
+
+*** Hole 3 ***
+Number of Strokes: 3
+1. View Hole Stats, 2. View Round Stats, 3. View Both Stats, 4. Continue: 3
+
+Current Hole stats: Par (2) Strokes (3), 1 over par
+
+Overall stats: Par (9) Strokes (10), 1 over par
+
+
+*** Hole 4 ***
+Number of Strokes: 6
+1. View Hole Stats, 2. View Round Stats, 3. View Both Stats, 4. Continue: 4
+
+*** Hole 5 ***
+Number of Strokes: 
