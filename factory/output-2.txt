@@ -1,0 +1,82 @@
+Welcome to our Bike Store.
+
+Enter Bike Type: 
+1. Tricycle
+2. Strider
+3. Kids Bike
+4. None
+1
+Creating a Tricycle
+- Assembling Tricycle frame
+- Adding 3 wheel(s)
+- Adding pedals
+
+********* Running Program Again ********* 
+
+Enter Bike Type: 
+1. Tricycle
+2. Strider
+3. Kids Bike
+4. None
+2
+Creating a Strider
+- Assembling Strider frame
+- Adding 2 wheel(s)
+
+********* Running Program Again ********* 
+
+Welcome to our Bike Store.
+
+Enter Bike Type: 
+1. Tricycle
+2. Strider
+3. Kids Bike
+4. None
+3
+Creating a Kids Bike
+- Assembling Kids Bike frame
+- Adding 2 wheel(s)
+- Adding training wheels
+- Adding pedals
+
+********* Running Program Again ********* 
+
+Welcome to our Bike Store.
+
+Enter Bike Type: 
+1. Tricycle
+2. Strider
+3. Kids Bike
+4. None
+4
+We are sorry to hear you do not want a bike.
+Goodbye
+
+********* Running Program Again ********* 
+
+Welcome to our Bike Store.
+
+Enter Bike Type: 
+1. Tricycle
+2. Strider
+3. Kids Bike
+4. None
+5
+Please enter a valid whole number between 1 and 4.
+
+Enter Bike Type: 
+1. Tricycle
+2. Strider
+3. Kids Bike
+4. None
+a
+Please enter a valid whole number between 1 and 4.
+
+Enter Bike Type: 
+1. Tricycle
+2. Strider
+3. Kids Bike
+4. None
+4
+We are sorry to hear you do not want a bike.
+Goodbye
