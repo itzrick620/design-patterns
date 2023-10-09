@@ -1,0 +1,51 @@
+Document Editor Opened
+Enter Document Name: homework.txt
+Press 'C' for change, L for change list, or Q for quit: C
+Enter Change: Add decorator homework
+Making Change: Add decorator homework
+Press 'C' for change, 'U' for undo, L for change list, or Q for quit: c
+Enter Change: Add UML homework
+Making Change: Add UML homework
+Press 'C' for change, 'U' for undo, L for change list, or Q for quit: C
+Enter Change: Add Studying
+Making Change: Add Studying
+Press 'C' for change, 'U' for undo, L for change list, or Q for quit: l
+Undo Command List:
+  - Add decorator homework
+  - Add UML homework
+  - Add Studying
+Redo Command List:
+Press 'C' for change, 'U' for undo, L for change list, or Q for quit: u
+Undoing: Add Studying
+Press 'C' for change, 'U' for undo, 'R' for redo, L for change list, or Q for quit: l
+Undo Command List:
+  - Add decorator homework
+  - Add UML homework
+Redo Command List:
+  - Add Studying
+Press 'C' for change, 'U' for undo, 'R' for redo, L for change list, or Q for quit: u
+Undoing: Add UML homework
+Press 'C' for change, 'U' for undo, 'R' for redo, L for change list, or Q for quit: l
+Undo Command List:
+  - Add decorator homework
+Redo Command List:
+  - Add Studying
+  - Add UML homework
+Press 'C' for change, 'U' for undo, 'R' for redo, L for change list, or Q for quit: r
+Redoing: Add UML homework
+Press 'C' for change, 'U' for undo, 'R' for redo, L for change list, or Q for quit: l
+Undo Command List:
+  - Add decorator homework
+  - Add UML homework
+Redo Command List:
+  - Add Studying
+Press 'C' for change, 'U' for undo, 'R' for redo, L for change list, or Q for quit: r
+Redoing: Add Studying
+Press 'C' for change, 'U' for undo, L for change list, or Q for quit: l
+Undo Command List:
+  - Add decorator homework
+  - Add UML homework
+  - Add Studying
+Redo Command List:
+Press 'C' for change, 'U' for undo, L for change list, or Q for quit: q
+Goodbye :(
